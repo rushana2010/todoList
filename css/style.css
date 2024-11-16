@@ -1,0 +1,23 @@
+
+.todo-container{
+    background-color: rgb(104, 98, 93);
+    padding: 20px;
+    border-radius: 5px;
+    width: 300px;
+    text-align: center;
+}
+
+
+#todoList{
+    list-style-type: none;
+}
+#todoList li{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#todoInpyt{
+    background-color: rgba(145, 39, 39, 0.623);
+
+
+}
